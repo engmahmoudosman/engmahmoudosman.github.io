@@ -13,7 +13,7 @@ title                    : "Mahmoud Osman"
 title_separator          : "-"
 name                     : &name "Mahmoud Osman"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://engmahmoudosman.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "myportrait.png"
+  avatar           : "profile.png"
   name             : "Mahmoud Osman"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Embedded Systems Engineer | MSc. Electronics Engineering student | Former lecturer"
   location         : "Graz, Austria"
-  employer         : "FH Joannuem"
+  employer         : "FH Joanneum"
   uri              : # URL
   email            : "engmahmoudosman@outlook.com" 
 
