@@ -13,6 +13,7 @@ redirect_from:
 
 You can download a PDF copy of my CV [here](/files/CV_Feb_2025.pdf)
 
+<!--
 Education
 ======
 * M.S. in Electronics Engineering, Joanneum University of Applied Sciences, 2024 - present
@@ -49,5 +50,6 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+ -->
+ 
 
