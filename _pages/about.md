@@ -14,5 +14,5 @@ Through this page, you will get to know more about me through my shared posts an
 
 Contact
 ---
-Email: engmahmoudosman@outlook.com
-Phone Number: +43 6606290311
+- Email: engmahmoudosman@outlook.com
+- Phone Number: +43 6606290311
