@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* M.S. in Electronics Engineering, Joannem University of Applied Sciences, 2024 - present
+* M.S. in Electronics Engineering, Joanneum University of Applied Sciences, 2024 - present
 * B.S. in Electrical Engineering, University of Pécs, 2023
 
 Work experience
 ======
 * Lecturer
-  * University of Pécs
+  * University of Pécs, February 2023 - January 2025
 
   
 Skills
