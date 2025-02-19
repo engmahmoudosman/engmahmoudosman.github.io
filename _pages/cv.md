@@ -11,6 +11,7 @@ redirect_from:
 
 <iframe src="/files/CV_Feb_2025.pdf" width="100%" height="500" frameborder="0" style="border: none;" ></iframe>
 
+You can download a PDF copy of my CV [here](/files/CV_Feb_2025.pdf)
 
 Education
 ======
