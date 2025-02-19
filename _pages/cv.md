@@ -9,7 +9,7 @@ redirect_from:
  
 {% include base_path %}
 
-<iframe src="files/CV_Feb_2025.pdf" width="100%" height="500" frameborder="0" style="border: none;" ></iframe>
+<iframe src="/files/CV_Feb_2025.pdf" width="100%" height="500" frameborder="0" style="border: none;" ></iframe>
 
 
 Education
