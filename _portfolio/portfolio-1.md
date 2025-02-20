@@ -20,9 +20,7 @@ Specifications
 | **Efficiency**           | 96%                   |
 | **Switching Frequency**  | 400KHz                |
 
-Schematic
-======
-![Logo](/images/dcdc_conv.jpeg)
+
 
 
 
