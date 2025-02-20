@@ -3,7 +3,7 @@ title: "LM5146 Buck Converter PCB Design"
 #excerpt: "Short description of portfolio item number 1<br/><img src='/converter_3dview.png'>"
 collection: portfolio
 ---
-
+![Logo](/images/converter_3dview.png)
 This project involved the development of a DC DC buck converter based on the LM5146. It includes the schematic and layout design.
 
 Specifications
