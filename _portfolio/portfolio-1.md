@@ -1,6 +1,6 @@
 ---
 title: "LM5146 Buck Converter PCB Design"
-excerpt: "Short description of portfolio item number 1<br/><img src='/converter_3dview.png'>"
+#excerpt: "Short description of portfolio item number 1<br/><img src='/converter_3dview.png'>"
 collection: portfolio
 ---
 
