@@ -21,9 +21,13 @@ Specifications
 | **Switching Frequency**  | 400KHz                |
 
 
+
+
 Price Analysis:
 ===
 The picture below shows the price analysis of my board from [eurocircuits PCB manufacturer](https://www.eurocircuits.com/)
+Based on the provided Gerber file, the estimated cost of the board is €201 for one board of 65mm X 40mm dimensions.
+
 ![Logo](/images/pcbprice.jpeg)
 
 
