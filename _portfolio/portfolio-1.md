@@ -24,7 +24,7 @@ Specifications
 Price Analysis:
 ===
 The picture below shows the price analysis of my board from [eurocircuits PCB manufacturer](https://www.eurocircuits.com/)
-![Logo](/images/pcbice.jpeg)
+![Logo](/images/pcbprice.jpeg)
 
 
 
