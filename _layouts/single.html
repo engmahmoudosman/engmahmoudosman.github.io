@@ -23,6 +23,8 @@ layout: default
     {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
     {% if page.modified %}<meta itemprop="dateModified" content="{{ page.modified | date: "%B %d, %Y" }}">{% endif %}
 
+
+    <!--
     <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
         <header>
@@ -43,7 +45,7 @@ layout: default
         {% endif %}    
         </header>
       {% endunless %}
-
+        -->
       <section class="page__content" itemprop="text">
         {{ content }}
 
