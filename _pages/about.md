@@ -43,3 +43,10 @@ Contact
 <img src="/images/altium.png" alt="Altium Designer Logo" width="100">
 <img src="/images/cadence.png" alt="Cadence Logo" width="100">
 <img src="https://seeklogo.com/images/V/virtual-box-logo-306172.svg" alt="VirtualBox Logo" width="100">
+
+
+<div style="text-align: center;">
+  <img src="/images/altium.png" alt="Altium Designer Logo" width="100" style="margin: 10px;">
+  <img src="/images/cadence.png" alt="Cadence Logo" width="100" style="margin: 10px;">
+  <img src="https://seeklogo.com/images/V/virtual-box-logo-306172.svg" alt="VirtualBox Logo" width="100" style="margin: 10px;">
+</div>
