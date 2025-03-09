@@ -48,5 +48,5 @@ Contact
 <div style="text-align: center;">
   <img src="/images/altium.png" alt="Altium Designer Logo" width="100" style="margin: 10px;">
   <img src="/images/cadence.png" alt="Cadence Logo" width="100" style="margin: 10px;">
-  <img src="https://seeklogo.com/images/V/virtual-box-logo-306172.svg" alt="VirtualBox Logo" width="100" style="margin: 10px;">
+  <img src="https://images.seeklogo.com/logo-png/30/1/virtual-box-logo-png_seeklogo-306172.png" alt="VirtualBox Logo" width="100" style="margin: 10px;">
 </div>
