@@ -37,3 +37,6 @@ Contact
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42"/>
   </a>
 </p>
+
+<h2 align="center">Softwares I use</h2>
+![Logo](/images/altium.png)
