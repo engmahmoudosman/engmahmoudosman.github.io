@@ -45,5 +45,7 @@ Contact
   <img src="/images/cadence.png" alt="Cadence Logo" width="150" style="margin: 10px;">
   <img src="https://images.seeklogo.com/logo-png/30/1/virtual-box-logo-png_seeklogo-306172.png" alt="VirtualBox Logo" width="150" style="margin: 10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" alt="VirtualBox Logo" width="150" style="margin: 10px;">
-  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Xilinx_logo.svg" alt="VirtualBox Logo" width="150" style="margin: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Matlab_icon.png" alt="VirtualBox Logo" width="150" style="margin: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VirtualBox Logo" width="150" style="margin: 10px;">
 </div>
