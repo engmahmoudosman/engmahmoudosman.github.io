@@ -39,4 +39,4 @@ Contact
 </p>
 
 <h2 align="center">Softwares I use</h2>
-![Logo](/images/altium.png)
+![Logo](/images/altium.png){width = 50}
