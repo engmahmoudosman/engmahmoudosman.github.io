@@ -40,5 +40,6 @@ Contact
 
 <h2 align="center">Softwares I use</h2>
 <!-- ![Logo](/images/altium.png){width = 50} -->
-<img src="/images/altium.png" alt="Altium Designer Logo" width="50">
-<img src="/images/cadence.png" alt="Cadence Logo" width="50">
+<img src="/images/altium.png" alt="Altium Designer Logo" width="100">
+<img src="/images/cadence.png" alt="Cadence Logo" width="100">
+<img src="https://seeklogo.com/images/V/virtual-box-logo-306172.svg" alt="VirtualBox Logo" width="100">
