@@ -14,6 +14,7 @@ redirect_from:
 You can download a PDF copy of my CV [here](/files/CV_Feb_2025.pdf)
 
 # My Skills
+<h1 align="center">MY SKILLS</h1>
 
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
