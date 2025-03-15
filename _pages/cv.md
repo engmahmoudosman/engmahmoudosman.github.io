@@ -13,8 +13,10 @@ redirect_from:
 
 You can download a PDF copy of my CV [here](/files/CV_Feb_2025.pdf)
 
-# My Skills
+
 <h1 align="center">MY SKILLS</h1>
+
+---
 
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
@@ -37,7 +39,9 @@ You can download a PDF copy of my CV [here](/files/CV_Feb_2025.pdf)
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="42" height="42"/>
   </a>
 </p>
-          
+
+  ---        
+  
 <h2 align="center">Softwares</h2>
 <!-- ![Logo](/images/altium.png){width = 50} -->
 <div style="text-align: center;">
