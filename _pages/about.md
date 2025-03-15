@@ -17,7 +17,7 @@ Contact
 ---
 - Email: engmahmoudosman@outlook.com
 
-<!---[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=engmahmoudosman)](https://git.io/streak-stats) -->
+<!---[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=engmahmoudosman)](https://git.io/streak-stats) 
 
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
@@ -40,9 +40,13 @@ Contact
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="42" height="42"/>
   </a>
 </p>
-          
+      -->
+<!-- 
 <h2 align="center">Softwares</h2>
-<!-- ![Logo](/images/altium.png){width = 50} -->
+-->
+
+  <!-- ![Logo](/images/altium.png){width = 50} 
+
 <div style="text-align: center;">
   <img src="/images/altium.png" alt="Altium Designer Logo" width="150" style="margin: 10px;">
   <img src="/images/cadence.png" alt="Cadence Logo" width="150" style="margin: 10px;">
@@ -53,3 +57,4 @@ Contact
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VScode Logo" width="120" style="margin: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="Anaconda Logo" width="120" style="margin: 10px;">
 </div>
+-->
