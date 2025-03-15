@@ -13,7 +13,7 @@ redirect_from:
 
 You can download a PDF copy of my CV [here](/files/CV_Feb_2025.pdf)
 
-Skills
+# My Skills
 
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
