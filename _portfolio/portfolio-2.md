@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 This project involves the development of an IOT data acquistion device. 
-I build a breadboard prototype, programmed the ESP32 with FreeRTOS and designed an initial pcb protoype using KiCAD.
+I build a breadboard prototype, programmed the ESP32 with FreeRTOS and designed a pcb using KiCAD.
 
 Specifications
 ======
