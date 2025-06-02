@@ -23,7 +23,7 @@ Specifications
 
 <p align="center">
     <img src="/images/breadboard.jpg" alt="breadboard" width="350"/>
-    <img src="/images/breakoutboard.png" alt="breadboard" width="350"/>
+    <img src="/images/breakoutboard2.png" alt="breadboard" width="350"/>
   </p>
 
 
