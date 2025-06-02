@@ -30,6 +30,6 @@ Based on the provided Gerber file, the estimated cost of the board is €201 for
 
 ![Logo](/images/pcbprice.jpeg)
 
-<iframe src="/files/Board.pdf" width="100%" height="500" frameborder="0" style="border: none;" ></iframe>
+
 
 
