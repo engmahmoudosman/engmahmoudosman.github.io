@@ -7,7 +7,7 @@ collection: portfolio
 
 ## Setup and Teardown
 
-```python
+```{.python style="font-size: 1.2em; background: #222; color: #fff;"}
 import unittest
 
 def setUpModule():
