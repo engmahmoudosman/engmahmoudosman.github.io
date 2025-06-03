@@ -5,46 +5,41 @@ collection: portfolio
 ---
 
 
-## Setup and Teardown
+## Libraries 
 
 ```python
-import unittest
-
-def setUpModule():
-  print('setUpModule()')
-
-def tearDownModule():
-  print('tearDownModule()')
-
-class SimpleTest(unittest.TestCase):
-
-  @classmethod
-  def setUpClass(cls):
-    print('setUpClass()')
-
-  @classmethod
-  def tearDownClass(cls):
-    print('tearDownClass()')
-
-  def setUp(self):
-    print('setUp()')
-
-  def tearDown(self):
-    print('tearDown()')
-
-  def test_a(self):
-    print('testA()')
-
-  def test_b(self):
-    print('testB()')
-
-  @unittest.skip("demonstrating skipping")
-  def test_c(self):
-    print('testC()')
-    self.fail()
-
-if __name__ == '__main__':
-  unittest.main()
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+from scipy import stats
+from sklearn.linear_model import LinearRegression
+from sklearn.model_selection import train_test_split, cross_val_score
+from sklearn.metrics import r2_score, mean_squared_error
+from sklearn.preprocessing import PolynomialFeatures, StandardScaler
 ```
 
 
+## Original Data Set Analysis
+
+- Dataset loading
+- Dataset statistical analysis: printing number of samples, calculating  Q1 and Q3 quantiles, Inter Quantile Range (IQR), outliers.
+- Data visualisation with plots, subplots, boxplots etc.
+
+## Data Preprocessing
+
+- defining functions to handle invalid values, outliers, missing values, handling NaN and handling duplicates.
+
+## Data visualisation 
+- Histograms
+- correlation matrix
+- Heatmaps
+
+## Probability Analysis
+- Threshold-based probability estimation
+- Cross tabulation 
+- Conditional probability 
+
+## Statistical Theory Applications
+- Law of Large Numbers
+- Central Limit Theorem
