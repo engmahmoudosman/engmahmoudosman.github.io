@@ -3,7 +3,7 @@ title: "Data Analysis with Python"
 # excerpt: "Short description of portfolio item number 1<br/><img src='/converter_3dview.png'>"
 collection: portfolio
 ---
-
+This project utilizes the Python programming language to analyze a provided dataset, applying various statistical and data visualization techniques.
 
 ## Libraries 
 
