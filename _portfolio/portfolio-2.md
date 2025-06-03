@@ -4,8 +4,7 @@ title: "Data Acquisition IOT device"
 collection: portfolio
 ---
 
-This project involves the development of an IOT data acquistion device. 
-I build a breadboard prototype, programmed the ESP32 with FreeRTOS and designed a pcb using KiCAD.
+In this project, I developed an ESP32 based data acquisition device, programmed in C using FreeRTOS. The device collects ambient temperature, humidity, luminosity and background noise, displaying it on an OLED display and sends the data to an online server for monitoring. I built a breadboard prototype and designed a PCB using KiCAD. 
 
 Specifications
 ======
