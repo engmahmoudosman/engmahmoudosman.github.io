@@ -7,44 +7,44 @@ collection: portfolio
 
 ## Setup and Teardown
 
-```Python
+```python
 import unittest
 
 def setUpModule():
-    print('setUpModule()')
+  print('setUpModule()')
 
 def tearDownModule():
-    print('tearDownModule()')
+  print('tearDownModule()')
 
 class SimpleTest(unittest.TestCase):
 
-    @classmethod
-    def setUpClass(cls):
-        print('setUpClass()')
+  @classmethod
+  def setUpClass(cls):
+    print('setUpClass()')
 
-    @classmethod
-    def tearDownClass(cls):
-        print('tearDownClass()')
+  @classmethod
+  def tearDownClass(cls):
+    print('tearDownClass()')
 
-    def setUp(self):
-        print('setUp()')
+  def setUp(self):
+    print('setUp()')
 
-    def tearDown(self):
-        print('tearDown()')
+  def tearDown(self):
+    print('tearDown()')
 
-    def test_a(self):
-        print('testA()')
+  def test_a(self):
+    print('testA()')
 
-    def test_b(self):
-        print('testB()')
+  def test_b(self):
+    print('testB()')
 
-    @unittest.skip("demonstrating skipping")
-    def test_c(self):
-        print('testC()')
-        self.fail()
+  @unittest.skip("demonstrating skipping")
+  def test_c(self):
+    print('testC()')
+    self.fail()
 
 if __name__ == '__main__':
-    unittest.main()
+  unittest.main()
 ```
 
 
