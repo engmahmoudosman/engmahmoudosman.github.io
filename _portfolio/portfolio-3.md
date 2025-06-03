@@ -7,7 +7,7 @@ collection: portfolio
 
 ## Setup and Teardown
 
-```{.python style="font-size: 1.2em; background: #222; color: #fff;"}
+<pre>```python
 import unittest
 
 def setUpModule():
@@ -45,6 +45,6 @@ class SimpleTest(unittest.TestCase):
 
 if __name__ == '__main__':
   unittest.main()
-```
+```</pre>
 
 
