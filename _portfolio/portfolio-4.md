@@ -4,12 +4,12 @@ title: "STM32 based PCB design"
 collection: portfolio
 ---
 
-I designed and STM32 based board using KiCAD. I decided on the peripherals pinouts using STM32CubeIDE.
+I designed an STM32-based board utilizing KiCAD for schematic capture and PCB layout. Peripheral pin assignments were carefully selected using STM32CubeIDE to ensure optimal functionality and integration.
 
-
-Here is the Schematic of the board
+Below is the schematic diagram of the board:
 <iframe src="/files/STM32board.pdf" width="100%" height="500" frameborder="0" style="border: none;" ></iframe>
 
+3D View of the board:
 
 <p align="center">
     <img src="/images/stm32board.png" alt="breadboard" width="450"/>
