@@ -6,10 +6,10 @@ collection: portfolio
 
 I designed an STM32-based board utilizing KiCAD for schematic capture and PCB layout. Peripheral pin assignments were carefully selected using STM32CubeIDE to ensure optimal functionality and integration.
 
-Below is the schematic diagram of the board:
+## schematic diagram:
 <iframe src="/files/STM32board.pdf" width="100%" height="500" frameborder="0" style="border: none;" ></iframe>
 
-3D View of the board:
+## 3D View:
 
 <p align="center">
     <img src="/images/stm32board.png" alt="breadboard" width="450"/>
