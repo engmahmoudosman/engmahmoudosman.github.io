@@ -9,8 +9,7 @@ I used Altium designer to design the PCB.
 
 ![Logo](/images/converter_3dview.png)
 
-Specifications
-======
+## Specifications
 
 | **Specification**        | **Description**       |
 |--------------------------|-----------------------|
@@ -24,8 +23,7 @@ Specifications
 
 
 
-Price Analysis:
-===
+## Price Analysis:
 The picture below shows the price analysis of my board from [eurocircuits PCB manufacturer](https://www.eurocircuits.com/)
 Based on the provided Gerber file, the estimated cost of the board is €201 for one board of 65mm X 40mm dimensions.
 
