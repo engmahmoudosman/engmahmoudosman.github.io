@@ -1,5 +1,5 @@
 ---
-title: "ESP32 evaluation board replicate PCB design"
+title: "ESP32 evaluation board PCB design"
 # excerpt: "Short description of portfolio item number 1<br/><img src='/converter_3dview.png'>"
 collection: portfolio
 ---
