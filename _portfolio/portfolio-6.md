@@ -7,7 +7,7 @@ collection: portfolio
 I created a USB to UART converter PCB utilizing the FT232RL chip, designed with Altium Designer.
 
 ## Schematic diagram:
-<iframe src="/files/esp32sch.pdf" width="100%" height="500" frameborder="0" style="border: none;" ></iframe>
+<iframe src="/files/usb_uart_sch.pdf" width="100%" height="500" frameborder="0" style="border: none;" ></iframe>
 
 ## 3D Top View
 <p align="center">
