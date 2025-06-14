@@ -72,14 +72,25 @@ Contact
 </section>
 
 
-<!-- Contact Section (Thinner) -->
-<section style="background-color: #f0f0f0; padding: 5px 5px; border-radius: 12px; text-align: center; margin-bottom: 60px;">
-  <h2 style="font-size: 1.8em; margin-bottom: 10px;">📫 Contact</h2>
-  <p style="font-size: 1.05em; margin: 0;">
-    Feel free to reach out via email:<br>
-    <a href="mailto:engmahmoudosman@outlook.com" style="color: #007acc; font-weight: 600;">engmahmoudosman@outlook.com</a>
+<!-- Contact Section (Clean & Thin) -->
+<section style="
+  background-color: #f9f9f9;
+  padding: 20px 30px;
+  border-radius: 8px;
+  text-align: center;
+  margin: 40px auto 60px;
+  max-width: 600px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+">
+  <h2 style="font-size: 1.6em; margin-bottom: 8px;">📫 Contact</h2>
+  <p style="font-size: 1em; margin: 0;">
+    Reach out via email: <br>
+    <a href="mailto:engmahmoudosman@outlook.com" style="color: #007acc; font-weight: 600; text-decoration: none;">
+      engmahmoudosman@outlook.com
+    </a>
   </p>
 </section>
+
 
 
 
