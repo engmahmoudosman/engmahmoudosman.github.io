@@ -116,6 +116,9 @@ Contact
 
 
 
+<footer style="text-align:center; padding:20px 0; font-size:0.9em; color:#666;">
+  © 2025 Mahmoud Osman • <a href="https://github.com/..." style="color:#007acc; text-decoration:none;">GitHub</a> • <a href="https://www.linkedin.com/..." style="color:#007acc; text-decoration:none;">LinkedIn</a>
+</footer>
 
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=engmahmoudosman)](https://git.io/streak-stats)  -->
