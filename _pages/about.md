@@ -43,7 +43,7 @@ Contact
 - Email: [engmahmoudosman@outlook.com](mailto:engmahmoudosman@outlook.com) -->
 
 <!-- Hero Banner with Background Image (using img tag) -->
-<section style="position: relative; height: 500px; overflow: hidden; text-align: center; display: flex; align-items: center; justify-content: center;">
+<section style="position: relative; height: 500px; overflow: hidden;">
   <!-- Background Image -->
   <img src="/images/me_rf.jpeg" alt="Mahmoud Osman working" style="
     position: absolute;
@@ -60,15 +60,18 @@ Contact
   <div style="
     position: relative;
     z-index: 1;
-    background: rgba(255, 255, 255, 0.25);
+    background: rgba(255, 255, 255, 0.2);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
-    padding: 30px 20px;
+    padding: 20px 30px;
+    margin-left: 50px;
+    margin-top: 60px;
     border-radius: 12px;
-    max-width: 700px;
+    max-width: 400px;
+    color: #222;
   ">
-    <h1 style="font-size: 2.5em; margin-bottom: 15px; color: #222;">Hi, I'm Mahmoud Osman</h1>
-    <p style="font-size: 1.2em; line-height: 1.6; color: #222;">
+    <h1 style="font-size: 1.8em; margin-bottom: 12px;">Hi, I'm Mahmoud</h1>
+    <p style="font-size: 1em; line-height: 1.5;">
       Embedded Systems Engineer & Master's Student in Electronics Engineering — passionate about building smart embedded systems and innovative hardware.
     </p>
   </div>
@@ -78,7 +81,7 @@ Contact
 <div style="text-align: center; margin-top: 30px;">
   <a href="/cv/" class="cta-btn" style="background-color: #007acc;">View My CV</a>
   <a href="/projects/" class="cta-btn" style="background-color: #4caf50;">Browse Projects</a>
-  <a href="/blog/participations/" class="cta-btn" style="background-color: #ff9800;">View Participations</a>
+  <a href="/blog/participations/" class="cta-btn" style="background-color: #ff9800;">Participations & Achievements</a>
 </div>
 
 <!-- Button Styling -->
