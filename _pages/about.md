@@ -43,9 +43,9 @@ Contact
 - Email: [engmahmoudosman@outlook.com](mailto:engmahmoudosman@outlook.com) -->
 
 <!-- Hero Banner with Background Image (using img tag) -->
-<section style="position: relative; height: 500px; overflow: hidden;">
+<!-- <section style="position: relative; height: 500px; overflow: hidden;">
   <!-- Background Image -->
-  <img src="/images/me_rf.jpeg" alt="Mahmoud Osman working" style="
+  <!-- <img src="/images/me_rf.jpeg" alt="Mahmoud Osman working" style="
     position: absolute;
     top: 0;
     left: 0;
@@ -54,7 +54,7 @@ Contact
     object-fit: cover;
     z-index: 0;
     filter: brightness(0.75);
-  ">
+  "> --> 
 
   <!-- Blurred Text Overlay -->
   <!-- <div style="
