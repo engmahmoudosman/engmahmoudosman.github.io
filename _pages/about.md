@@ -117,7 +117,7 @@ Contact
 
 
 <footer style="text-align:center; padding:20px 0; font-size:0.9em; color:#666;">
-  © 2025 Mahmoud Osman • <a href="https://github.com/engmahmoudosman" style="color:#007acc; text-decoration:none;">GitHub</a> • <a href="https://www.linkedin.com/engmahmoudosman" style="color:#007acc; text-decoration:none;">LinkedIn</a>
+  © 2025 Mahmoud Osman • <a href="https://github.com/engmahmoudosman" style="color:#007acc; text-decoration:none;">GitHub</a> • <a href="https://www.linkedin.com/in/engmahmoudosman" style="color:#007acc; text-decoration:none;">LinkedIn</a>
 </footer>
 
 <!--
