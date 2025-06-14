@@ -42,6 +42,18 @@ Contact
 ---
 - Email: [engmahmoudosman@outlook.com](mailto:engmahmoudosman@outlook.com) -->
 
+<section style="display: flex; flex-wrap: wrap; align-items: center; padding: 60px 20px;">
+  <div style="flex: 1; min-width: 300px; padding: 20px;">
+    <img src="/images/me_rf.jpeg" alt="Mahmoud Osman" style="width: 100%; border-radius: 12px; box-shadow: 0 5px 20px rgba(0,0,0,0.2);">
+  </div>
+  <div style="flex: 1; min-width: 300px; padding: 20px;">
+    <h1>Hi, I'm Mahmoud Osman</h1>
+    <p>Embedded Systems Engineer & Master's Student in Electronics Engineering...</p>
+    <a href="/cv/" class="cta-btn" style="background-color: #007acc;">View My CV</a>
+  </div>
+</section>
+
+
 <section style="
   text-align: center;
   padding: 100px 20px;
