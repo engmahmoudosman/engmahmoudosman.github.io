@@ -111,13 +111,13 @@ Contact
 
   <h2 style="font-size: 1.3em; margin-bottom: 6px;">Contact</h2>
   <p style="font-size: 0.95em; margin: 0;">
-    Email me at:<br>
     <a href="mailto:engmahmoudosman@outlook.com"
       style="color: #007acc; font-weight: 600; text-decoration: none;">
       engmahmoudosman@outlook.com
     </a>
   </p>
 </section>
+
 
 
 
