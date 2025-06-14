@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me!"
+#title: "About Me!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -44,7 +44,7 @@ Contact
 
 <!-- Hero Banner -->
 <section style="text-align: center; padding: 80px 20px; background: linear-gradient(135deg, #e0f7fa, #f5f5f5); border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); margin-bottom: 60px;">
-  <h1 style="font-size: 3em; margin-bottom: 20px;">👋 Hi, I'm Mahmoud Osman</h1>
+  <h1 style="font-size: 3em; margin-bottom: 20px;"> Hi, I'm Mahmoud</h1>
   <p style="font-size: 1.2em; max-width: 650px; margin: 0 auto 30px; line-height: 1.6;">
     Embedded Systems Engineer & Master’s Student in Electronics Engineering — passionate about innovative hardware, system integration, and smart embedded solutions.
   </p>
@@ -57,7 +57,7 @@ Contact
 
 <!-- About Me Section -->
 <section style="max-width: 800px; margin: 0 auto 60px; padding: 0 20px;">
-  <h2 style="font-size: 2em; margin-bottom: 20px;">👨‍💻 About Me</h2>
+  <h2 style="font-size: 2em; margin-bottom: 20px;">About Me</h2>
   <p style="font-size: 1.1em; line-height: 1.7; color: #333;">
     I’m an Embedded Systems Engineer and passionate Master’s student currently based in Austria. I specialize in designing innovative hardware and developing reliable embedded solutions, with a strong interest in the intersection of electronics, software, and system integration.
   </p>
@@ -69,14 +69,6 @@ Contact
   </p>
 </section>
 
-<!-- Contact Section -->
-<section style="background-color: #f0f0f0; padding: 20px 20px; border-radius: 12px; text-align: center;">
-  <h2 style="font-size: 2em; margin-bottom: 20px;">📫 Contact</h2>
-  <p style="font-size: 1.1em;">
-    Reach out via email:<br>
-    <a href="mailto:engmahmoudosman@outlook.com" style="color: #007acc; font-weight: bold;">engmahmoudosman@outlook.com</a>
-  </p>
-</section>
 
 <!-- Contact Section (Thinner) -->
 <section style="background-color: #f0f0f0; padding: 20px 20px; border-radius: 12px; text-align: center; margin-bottom: 60px;">
@@ -89,7 +81,7 @@ Contact
 
 
 <!-- Call to Action Button Styling -->
-<style>
+<!-- <style>
   .cta-btn {
     display: inline-block;
     margin: 10px;
@@ -104,7 +96,35 @@ Contact
     background-color: #333 !important;
     transform: translateY(-2px);
   }
+</style> -->
+<style>
+  .cta-btn {
+    display: inline-block;
+    margin: 10px;
+    padding: 12px 24px;
+    background-color: #007acc;
+    color: white;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+  }
+
+  .cta-btn:hover {
+    background-color: #333 !important;
+    transform: translateY(-2px);
+    text-decoration: none;
+    color: white;
+  }
+
+  .cta-btn:visited,
+  .cta-btn:focus,
+  .cta-btn:active {
+    text-decoration: none;
+    color: white;
+  }
 </style>
+
 
 
 
