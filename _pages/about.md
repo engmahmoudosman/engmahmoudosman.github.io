@@ -42,16 +42,62 @@ Contact
 ---
 - Email: [engmahmoudosman@outlook.com](mailto:engmahmoudosman@outlook.com) -->
 
-<section style="display: flex; flex-wrap: wrap; align-items: center; padding: 60px 20px;">
-  <div style="flex: 1; min-width: 300px; padding: 20px;">
-    <img src="/images/me_rf.jpeg" alt="Mahmoud Osman" style="width: 100%; border-radius: 12px; box-shadow: 0 5px 20px rgba(0,0,0,0.2);">
-  </div>
-  <div style="flex: 1; min-width: 300px; padding: 20px;">
-    <h1>Hi, I'm Mahmoud Osman</h1>
-    <p>Embedded Systems Engineer & Master's Student in Electronics Engineering...</p>
-    <a href="/cv/" class="cta-btn" style="background-color: #007acc;">View My CV</a>
+<!-- Hero Banner with Background Image and Blurred Text Box -->
+<section style="
+  background: url('/assets/images/me_rf.jpeg') center center/cover no-repeat;
+  height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  text-align: center;
+">
+  <!-- Blurred Text Box -->
+  <div style="
+    background: rgba(255, 255, 255, 0.25);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    padding: 30px;
+    border-radius: 12px;
+    max-width: 700px;
+    margin: 0 20px;
+  ">
+    <h1 style="font-size: 2.5em; margin-bottom: 15px; color: #222;">Hi, I'm Mahmoud Osman</h1>
+    <p style="font-size: 1.2em; line-height: 1.6; color: #222;">
+      Embedded Systems Engineer & Master's Student in Electronics Engineering — passionate about building smart embedded systems and innovative hardware.
+    </p>
   </div>
 </section>
+
+<!-- Button Row Under the Image -->
+<div style="text-align: center; margin-top: 30px;">
+  <a href="/cv/" class="cta-btn" style="background-color: #007acc;">View My CV</a>
+  <a href="/projects/" class="cta-btn" style="background-color: #4caf50;">Browse Projects</a>
+  <a href="/blog/participations/" class="cta-btn" style="background-color: #ff9800;">View Participations</a>
+</div>
+
+<!-- Button Styling (No underline, nice hover) -->
+<style>
+  .cta-btn {
+    display: inline-block;
+    margin: 10px;
+    padding: 12px 24px;
+    color: white !important;
+    background-color: #444;
+    border-radius: 6px;
+    font-weight: 600;
+    text-decoration: none !important;
+    transition: transform 0.2s ease, background-color 0.3s ease;
+  }
+
+  .cta-btn:hover {
+    background-color: #222 !important;
+    transform: translateY(-2px);
+    text-decoration: none !important;
+    color: white !important;
+  }
+</style>
+
 
 
 <section style="
