@@ -42,90 +42,13 @@ Contact
 ---
 - Email: [engmahmoudosman@outlook.com](mailto:engmahmoudosman@outlook.com) -->
 
-<!-- Hero Banner with Background Image (using img tag) -->
-<!-- <section style="position: relative; height: 500px; overflow: hidden;">
-  <!-- Background Image -->
-  <!-- <img src="/images/me_rf.jpeg" alt="Mahmoud Osman working" style="
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    z-index: 0;
-    filter: brightness(0.75);
-  "> --> 
-
-
-
-<!-- Button Section Below Image -->
-<!-- <div style="text-align: center; margin-top: 30px;">
-  <a href="/cv/" class="cta-btn" style="background-color: #007acc;">View My CV</a>
-  <a href="/projects/" class="cta-btn" style="background-color: #4caf50;">Browse Projects</a>
-  <a href="/blog/participations/" class="cta-btn" style="background-color: #ff9800;">Participations & Achievements</a>
-</div> -->
-
-<!-- Button Styling -->
-<!-- <style>
-  .cta-btn {
-    display: inline-block;
-    margin: 10px;
-    padding: 12px 24px;
-    color: white !important;
-    border-radius: 6px;
-    font-weight: 600;
-    text-decoration: none !important;
-    transition: transform 0.2s ease, background-color 0.3s ease;
-  }
-
-  .cta-btn:hover {
-    background-color: #222 !important;
-    transform: translateY(-2px);
-    text-decoration: none !important;
-    color: white !important;
-  }
-</style>
-
-
-
-
-<section style="
-  text-align: center;
-  padding: 100px 20px;
-  color: white;
-  position: relative;
-">
-  <img src="/images/me_rf.jpeg" alt="breadboard" width="450" style="border-radius: 12px; margin-bottom: 30px; box-shadow: 0 4px 24px rgba(0,0,0,0.15);" />
-">
-  <!-- Overlay -->
-  <!-- <div style="
-    position: absolute;
-    top: 0; left: 0;
-    width: 100%; height: 100%;
-    background: rgba(0, 0, 0, 0.5);
-    z-index: 1;
-  "></div> --> 
-
-  <!-- Content -->
-  <!-- <div style="position: relative; z-index: 2; max-width: 800px; margin: 0 auto;">
-    <h1 style="font-size: 3em; margin-bottom: 20px;">Hi, I'm Mahmoud Osman</h1>
-    <p style="font-size: 1.3em; line-height: 1.6;">
-      Embedded Systems Engineer & Master's Student in Electronics Engineering — passionate about building smart embedded systems and innovative hardware.
-    </p>
-    <div style="margin-top: 30px;">
-      <a href="/cv/" class="cta-btn" style="background-color: #007acc;">View My CV</a>
-      <a href="/projects/" class="cta-btn" style="background-color: #4caf50;">Browse Projects</a>
-      <a href="/blog/participations/" class="cta-btn" style="background-color: #ff9800;">View Participations</a>
-    </div>
-  </div>
-</section> --> 
-
 
 <!-- Hero Banner -->
 <section style="text-align: center; padding: 80px 20px; background: linear-gradient(135deg, #e0f7fa, #f5f5f5); border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); margin-bottom: 60px;">
   <h1 style="font-size: 3em; margin-bottom: 20px;"> Hi, I'm Mahmoud</h1>
   <p style="font-size: 1.2em; max-width: 650px; margin: 0 auto 30px; line-height: 1.6;">
-    Embedded Systems Engineer & Master’s Student in Electronics Engineering — passionate about innovative hardware, system integration, and smart embedded solutions.
+    Embedded Systems Engineer<br>
+    passionate about innovative hardware, system integration, and smart embedded solutions.
   </p>
   <div style="margin-top: 10px;">
     <a href="/cv/" class="cta-btn" style="background-color: #007acc;">View My CV</a>
@@ -150,7 +73,7 @@ Contact
 
 
 <!-- Contact Section (Thinner) -->
-<section style="background-color: #f0f0f0; padding: 10px 10px; border-radius: 12px; text-align: center; margin-bottom: 60px;">
+<section style="background-color: #f0f0f0; padding: 5px 5px; border-radius: 12px; text-align: center; margin-bottom: 60px;">
   <h2 style="font-size: 1.8em; margin-bottom: 10px;">📫 Contact</h2>
   <p style="font-size: 1.05em; margin: 0;">
     Feel free to reach out via email:<br>
@@ -159,50 +82,6 @@ Contact
 </section>
 
 
-<!-- Call to Action Button Styling -->
-<!-- <style>
-  .cta-btn {
-    display: inline-block;
-    margin: 10px;
-    padding: 12px 24px;
-    color: white;
-    border-radius: 6px;
-    text-decoration: none;
-    font-weight: 600;
-    transition: background-color 0.3s ease, transform 0.2s ease;
-  }
-  .cta-btn:hover {
-    background-color: #333 !important;
-    transform: translateY(-2px);
-  }
-</style> -->
-<!-- <style>
-  .cta-btn {
-    display: inline-block;
-    margin: 10px;
-    padding: 12px 24px;
-    background-color: #007acc;
-    color: white;
-    border-radius: 6px;
-    text-decoration: none;
-    font-weight: 600;
-    transition: background-color 0.3s ease, transform 0.2s ease;
-  }
-
-  .cta-btn:hover {
-    background-color: #333 !important;
-    transform: translateY(-2px);
-    text-decoration: none !important;
-    color: white;
-  }
-
-  .cta-btn:visited,
-  .cta-btn:focus,
-  .cta-btn:active {
-    text-decoration: none !important;
-    color: white;
-  } -->
-<!-- </style> -->
 
 <!-- Button Styling -->
 <style>
