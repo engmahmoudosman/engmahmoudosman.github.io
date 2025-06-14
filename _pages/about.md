@@ -94,30 +94,31 @@ Contact
 
 <section style="
   background-color: #f9f9f9;
-  padding: 20px 30px;
+  padding: 10px 20px;
   border-radius: 8px;
   text-align: center;
-  margin: 40px auto 60px;
-  max-width: 600px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  margin: 30px auto 50px;
+  max-width: 500px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
 ">
-  <!-- Your Mail Icon (Heroicons style) -->
-  <div style="margin-bottom: 10px;">
-    <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="#007acc">
+  <!-- Mail Icon -->
+  <div style="margin-bottom: 6px;">
+    <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="#007acc">
       <path stroke-linecap="round" stroke-linejoin="round"
         d="M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75" />
     </svg>
   </div>
 
-  <h2 style="font-size: 1.6em; margin-bottom: 8px;">Contact</h2>
-  <p style="font-size: 1em; margin: 0;">
-    Reach out via email:<br>
+  <h2 style="font-size: 1.3em; margin-bottom: 6px;">Contact</h2>
+  <p style="font-size: 0.95em; margin: 0;">
+    Email me at:<br>
     <a href="mailto:engmahmoudosman@outlook.com"
       style="color: #007acc; font-weight: 600; text-decoration: none;">
       engmahmoudosman@outlook.com
     </a>
   </p>
 </section>
+
 
 
 <!-- Button Styling -->
