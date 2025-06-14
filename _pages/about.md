@@ -81,7 +81,7 @@ Contact
 
 
 <!-- Call to Action Button Styling -->
-<style>
+<!-- <style>
   .cta-btn {
     display: inline-block;
     margin: 10px;
@@ -95,8 +95,8 @@ Contact
   .cta-btn:hover {
     background-color: #333 !important;
     transform: translateY(-2px);
-  }
-</style>
+  } -->
+<!-- </style> -->
 <!-- <style>
   .cta-btn {
     display: inline-block;
