@@ -38,6 +38,9 @@ You can download a PDF copy of my CV [here](/files/Mahmoud_Osman_CV_2025.pdf)
    <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="42" height="42"/>
   </a>
+  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="42" height="42"/>
+  </a>
 </p>
 
   ---        
@@ -53,6 +56,8 @@ You can download a PDF copy of my CV [here](/files/Mahmoud_Osman_CV_2025.pdf)
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Matlab_icon.png" alt="Matlab Logo" width="150" style="margin: 10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VScode Logo" width="120" style="margin: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="Anaconda Logo" width="120" style="margin: 10px;">
+  
+          
 </div>
 <!--
 Education
