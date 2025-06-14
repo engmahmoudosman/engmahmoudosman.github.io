@@ -42,25 +42,30 @@ Contact
 ---
 - Email: [engmahmoudosman@outlook.com](mailto:engmahmoudosman@outlook.com) -->
 
-<!-- Hero Banner with Background Image and Blurred Text Box -->
-<section style="
-  background: url('/assets/images/me_rf.jpeg') center center/cover no-repeat;
-  height: 500px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  position: relative;
-  text-align: center;
-">
-  <!-- Blurred Text Box -->
+<!-- Hero Banner with Background Image (using img tag) -->
+<section style="position: relative; height: 500px; overflow: hidden; text-align: center; display: flex; align-items: center; justify-content: center;">
+  <!-- Background Image -->
+  <img src="/images/me_rf.jpeg" alt="Mahmoud Osman working" style="
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 0;
+    filter: brightness(0.75);
+  ">
+
+  <!-- Blurred Text Overlay -->
   <div style="
+    position: relative;
+    z-index: 1;
     background: rgba(255, 255, 255, 0.25);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
-    padding: 30px;
+    padding: 30px 20px;
     border-radius: 12px;
     max-width: 700px;
-    margin: 0 20px;
   ">
     <h1 style="font-size: 2.5em; margin-bottom: 15px; color: #222;">Hi, I'm Mahmoud Osman</h1>
     <p style="font-size: 1.2em; line-height: 1.6; color: #222;">
@@ -69,21 +74,20 @@ Contact
   </div>
 </section>
 
-<!-- Button Row Under the Image -->
+<!-- Button Section Below Image -->
 <div style="text-align: center; margin-top: 30px;">
   <a href="/cv/" class="cta-btn" style="background-color: #007acc;">View My CV</a>
   <a href="/projects/" class="cta-btn" style="background-color: #4caf50;">Browse Projects</a>
   <a href="/blog/participations/" class="cta-btn" style="background-color: #ff9800;">View Participations</a>
 </div>
 
-<!-- Button Styling (No underline, nice hover) -->
+<!-- Button Styling -->
 <style>
   .cta-btn {
     display: inline-block;
     margin: 10px;
     padding: 12px 24px;
     color: white !important;
-    background-color: #444;
     border-radius: 6px;
     font-weight: 600;
     text-decoration: none !important;
@@ -97,6 +101,7 @@ Contact
     color: white !important;
   }
 </style>
+
 
 
 
