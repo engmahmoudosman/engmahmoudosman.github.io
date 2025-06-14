@@ -70,13 +70,23 @@ Contact
 </section>
 
 <!-- Contact Section -->
-<section style="background-color: #f0f0f0; padding: 40px 20px; border-radius: 12px; text-align: center;">
+<section style="background-color: #f0f0f0; padding: 20px 20px; border-radius: 12px; text-align: center;">
   <h2 style="font-size: 2em; margin-bottom: 20px;">📫 Contact</h2>
   <p style="font-size: 1.1em;">
     Reach out via email:<br>
     <a href="mailto:engmahmoudosman@outlook.com" style="color: #007acc; font-weight: bold;">engmahmoudosman@outlook.com</a>
   </p>
 </section>
+
+<!-- Contact Section (Thinner) -->
+<section style="background-color: #f0f0f0; padding: 20px 20px; border-radius: 12px; text-align: center; margin-bottom: 60px;">
+  <h2 style="font-size: 1.8em; margin-bottom: 10px;">📫 Contact</h2>
+  <p style="font-size: 1.05em; margin: 0;">
+    Feel free to reach out via email:<br>
+    <a href="mailto:engmahmoudosman@outlook.com" style="color: #007acc; font-weight: 600;">engmahmoudosman@outlook.com</a>
+  </p>
+</section>
+
 
 <!-- Call to Action Button Styling -->
 <style>
