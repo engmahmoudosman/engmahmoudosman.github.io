@@ -43,11 +43,12 @@ Contact
 - Email: [engmahmoudosman@outlook.com](mailto:engmahmoudosman@outlook.com) -->
 
 <section style="
-  background: url('/assets/images/me_rf.jpeg') center/cover no-repeat;
-  padding: 100px 20px;
   text-align: center;
+  padding: 100px 20px;
   color: white;
   position: relative;
+">
+  <img src="/images/me_rf.jpeg" alt="breadboard" width="450" style="border-radius: 12px; margin-bottom: 30px; box-shadow: 0 4px 24px rgba(0,0,0,0.15);" />
 ">
   <!-- Overlay -->
   <div style="
