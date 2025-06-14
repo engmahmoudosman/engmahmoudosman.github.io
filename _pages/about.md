@@ -42,6 +42,37 @@ Contact
 ---
 - Email: [engmahmoudosman@outlook.com](mailto:engmahmoudosman@outlook.com) -->
 
+<section style="
+  background: url('/assets/images/me_rf.jpeg') center/cover no-repeat;
+  padding: 100px 20px;
+  text-align: center;
+  color: white;
+  position: relative;
+">
+  <!-- Overlay -->
+  <div style="
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 1;
+  "></div>
+
+  <!-- Content -->
+  <div style="position: relative; z-index: 2; max-width: 800px; margin: 0 auto;">
+    <h1 style="font-size: 3em; margin-bottom: 20px;">Hi, I'm Mahmoud Osman</h1>
+    <p style="font-size: 1.3em; line-height: 1.6;">
+      Embedded Systems Engineer & Master's Student in Electronics Engineering — passionate about building smart embedded systems and innovative hardware.
+    </p>
+    <div style="margin-top: 30px;">
+      <a href="/cv/" class="cta-btn" style="background-color: #007acc;">View My CV</a>
+      <a href="/projects/" class="cta-btn" style="background-color: #4caf50;">Browse Projects</a>
+      <a href="/blog/participations/" class="cta-btn" style="background-color: #ff9800;">View Participations</a>
+    </div>
+  </div>
+</section>
+
+
 <!-- Hero Banner -->
 <section style="text-align: center; padding: 80px 20px; background: linear-gradient(135deg, #e0f7fa, #f5f5f5); border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); margin-bottom: 60px;">
   <h1 style="font-size: 3em; margin-bottom: 20px;"> Hi, I'm Mahmoud</h1>
@@ -95,9 +126,9 @@ Contact
   .cta-btn:hover {
     background-color: #333 !important;
     transform: translateY(-2px);
-  } -->
-<!-- </style> -->
-<!-- <style>
+  }
+</style> -->
+<style>
   .cta-btn {
     display: inline-block;
     margin: 10px;
@@ -123,7 +154,7 @@ Contact
     text-decoration: none !important;
     color: white;
   }
-</style> -->
+</style>
 
 
 
