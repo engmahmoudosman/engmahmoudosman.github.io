@@ -56,26 +56,7 @@ Contact
     filter: brightness(0.75);
   "> --> 
 
-  <!-- Blurred Text Overlay -->
-  <!-- <div style="
-    position: relative;
-    z-index: 1;
-    background: rgba(255, 255, 255, 0.2);
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
-    padding: 20px 30px;
-    margin-left: 50px;
-    margin-top: 60px;
-    border-radius: 12px;
-    max-width: 400px;
-    color: #222;
-  ">
-    <h1 style="font-size: 1.8em; margin-bottom: 12px;">Hi, I'm Mahmoud</h1>
-    <p style="font-size: 1em; line-height: 1.5;">
-      Embedded Systems Engineer & Master's Student in Electronics Engineering — passionate about building smart embedded systems and innovative hardware.
-    </p>
-  </div>
-</section>
+
 
 <!-- Button Section Below Image -->
 <!-- <div style="text-align: center; margin-top: 30px;">
