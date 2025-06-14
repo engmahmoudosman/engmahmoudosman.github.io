@@ -48,12 +48,12 @@ Contact
   <h1 style="font-size: 3em; margin-bottom: 20px;"> Hi, I'm Mahmoud</h1>
   <p style="font-size: 1.2em; max-width: 650px; margin: 0 auto 30px; line-height: 1.6;">
     Embedded Systems Engineer<br>
-    passionate about innovative hardware, system integration, and smart embedded solutions.
+    Passionate about innovative hardware, system integration, and smart embedded solutions.
   </p>
   <div style="margin-top: 10px;">
     <a href="/cv/" class="cta-btn" style="background-color: #007acc;">View My CV</a>
     <a href="/projects/" class="cta-btn" style="background-color: #4caf50;">Browse Projects</a>
-    <a href="/blog/participations/" class="cta-btn" style="background-color: #ff9800;">View Participations</a>
+    <a href="/blog/participations/" class="cta-btn" style="background-color: #ff9800;">View Participations and Achievements</a>
   </div>
 </section>
 
@@ -79,10 +79,10 @@ Contact
   border-radius: 8px;
   text-align: center;
   margin: 40px auto 60px;
-  max-width: 600px;
+  max-width: 800px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.05);
 ">
-  <h2 style="font-size: 1.6em; margin-bottom: 8px;">📫 Contact</h2>
+  <h2 style="font-size: 1.6em; margin-bottom: 8px;"> Contact</h2>
   <p style="font-size: 1em; margin: 0;">
     Reach out via email: <br>
     <a href="mailto:engmahmoudosman@outlook.com" style="color: #007acc; font-weight: 600; text-decoration: none;">
@@ -92,6 +92,32 @@ Contact
 </section>
 
 
+<section style="
+  background-color: #f9f9f9;
+  padding: 20px 30px;
+  border-radius: 8px;
+  text-align: center;
+  margin: 40px auto 60px;
+  max-width: 600px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+">
+  <!-- Your Mail Icon (Heroicons style) -->
+  <div style="margin-bottom: 10px;">
+    <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="#007acc">
+      <path stroke-linecap="round" stroke-linejoin="round"
+        d="M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75" />
+    </svg>
+  </div>
+
+  <h2 style="font-size: 1.6em; margin-bottom: 8px;">Contact</h2>
+  <p style="font-size: 1em; margin: 0;">
+    Reach out via email:<br>
+    <a href="mailto:engmahmoudosman@outlook.com"
+      style="color: #007acc; font-weight: 600; text-decoration: none;">
+      engmahmoudosman@outlook.com
+    </a>
+  </p>
+</section>
 
 
 <!-- Button Styling -->
