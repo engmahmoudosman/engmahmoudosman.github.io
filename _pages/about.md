@@ -81,7 +81,7 @@ Contact
 
 
 <!-- Call to Action Button Styling -->
-<!-- <style>
+<style>
   .cta-btn {
     display: inline-block;
     margin: 10px;
@@ -96,8 +96,8 @@ Contact
     background-color: #333 !important;
     transform: translateY(-2px);
   }
-</style> -->
-<style>
+</style>
+<!-- <style>
   .cta-btn {
     display: inline-block;
     margin: 10px;
@@ -113,17 +113,17 @@ Contact
   .cta-btn:hover {
     background-color: #333 !important;
     transform: translateY(-2px);
-    text-decoration: none;
+    text-decoration: none !important;
     color: white;
   }
 
   .cta-btn:visited,
   .cta-btn:focus,
   .cta-btn:active {
-    text-decoration: none;
+    text-decoration: none !important;
     color: white;
   }
-</style>
+</style> -->
 
 
 
