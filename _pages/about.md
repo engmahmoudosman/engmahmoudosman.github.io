@@ -72,6 +72,20 @@ Contact
 </section>
 
 
+<!-- About Me Section -->
+<section style="max-width: 800px; margin: 0 auto 60px; padding: 0 20px;">
+  <h2 style="font-size: 2em; margin-bottom: 20px;">How can I help you?</h2>
+  <p style="font-size: 1.1em; line-height: 1.7; color: #333;">
+    I can offer you guidance and consultation if you:
+    - Have a project idea but don't know where to begin.
+    - are stuck in component selection, schematic design or PCB layout.
+    - want to program your microcontroller, integrate sensors and motors or connect to the internet.
+    - need assistance with system block diagram design.
+    - want to analyze data, explore its features, and visualize it in graphs.
+    
+</section>
+
+
 <!-- Contact Section (Clean & Thin) -->
 <section style="
   background-color: #f9f9f9;
