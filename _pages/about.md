@@ -76,13 +76,18 @@ Contact
 <section style="max-width: 800px; margin: 0 auto 60px; padding: 0 20px;">
   <h2 style="font-size: 2em; margin-bottom: 20px;">How can I help you?</h2>
   <p style="font-size: 1.1em; line-height: 1.7; color: #333;">
-    I can offer you guidance and consultation if you:
-    - Have a project idea but don't know where to begin.
-    - are stuck in component selection, schematic design or PCB layout.
-    - want to program your microcontroller, integrate sensors and motors or connect to the internet.
-    - need assistance with system block diagram design.
-    - want to analyze data, explore its features, and visualize it in graphs.
-    
+    Whether you're just starting or refining your tech journey, I'm here to support you with expert guidance and hands-on consultation. I can help you if:
+  </p>
+  <ul style="font-size: 1.1em; line-height: 1.7; color: #333; margin-bottom: 20px;">
+    <li>You have a project idea but aren't sure how to get started.</li>
+    <li>You're facing challenges with component selection, schematic design, or PCB layout.</li>
+    <li>You need help programming microcontrollers, integrating sensors and actuators, or enabling IoT connectivity.</li>
+    <li>You're looking to design a clear and functional system block diagram.</li>
+    <li>You want to analyze data, extract meaningful insights, and visualize it with impactful graphs.</li>
+  </ul>
+  <p style="font-size: 1.1em; color: #333;">
+    Let’s turn your ideas into working solutions.
+  </p>
 </section>
 
 
