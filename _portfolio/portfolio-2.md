@@ -32,7 +32,7 @@ In this project, I developed an ESP32 based data acquisition device, programmed 
 
 ## connectivity to BLYNK 
 <p align="center">
-    <img src="/images/blynk.jpg" alt="breadboard" width="450"/>
+    <img src="/images/blynk.JPG" alt="blynk" width="450"/>
     <!-- <img src="/images/breakoutboard2.png" alt="breadboard" width="350"/> -->
   </p>
 
