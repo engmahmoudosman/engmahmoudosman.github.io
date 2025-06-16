@@ -45,16 +45,17 @@ Contact
 
 <!-- Hero Banner -->
 <section style="text-align: center; padding: 80px 20px; background: linear-gradient(135deg, #e0f7fa, #f5f5f5); border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); margin-bottom: 60px;">
-  <h1 style="font-size: 3em; margin-bottom: 20px;">Hi, I'm Mahmoud</h1>
+  <h1 style="font-size: 3em; margin-bottom: 20px;"> Hi, I'm Mahmoud</h1>
   <p style="font-size: 1.2em; max-width: 650px; margin: 0 auto 30px; line-height: 1.6;">
     Embedded Systems Engineer<br>
     Passionate about innovative hardware, system integration, and smart embedded solutions.
   </p>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; margin-top: 20px;">
+  <div style="margin-top: 10px;">
     <a href="/cv/" class="cta-btn" style="background-color: #007acc;">View My CV</a>
     <a href="/projects/" class="cta-btn" style="background-color: #4caf50;">Browse Projects</a>
-    <a href="/blog/participations/" class="cta-btn" style="background-color: #ff9800;">View Participations and Achievements</a>
-    <a href="/year-archive" class="cta-btn" style="background-color: rgb(255, 0, 0);">Blog Posts</a>
+    <a href="/year-archive" class="cta-btn" style="background-color:rgb(255, 0, 0);">Blog</a>
+    <a href="/blog/participations/" class="cta-btn" style="background-color: #ff9800;"> Participations & Achievements</a>
+    
   </div>
 </section>
 
