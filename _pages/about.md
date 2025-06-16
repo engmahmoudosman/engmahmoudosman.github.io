@@ -51,8 +51,8 @@ Contact
     Passionate about innovative hardware, system integration, and smart embedded solutions.
   </p>
   <div style="margin-top: 10px;">
-    <a href="/cv/" class="cta-btn" style="background-color: #007acc;">View My CV</a>
-    <a href="/projects/" class="cta-btn" style="background-color: #4caf50;">Browse Projects</a>
+    <a href="/cv/" class="cta-btn" style="background-color: #007acc;">My CV</a>
+    <a href="/projects/" class="cta-btn" style="background-color: #4caf50;">Projects</a>
     <a href="/year-archive" class="cta-btn" style="background-color:rgb(255, 0, 0);">Blog</a>
     <a href="/blog/participations/" class="cta-btn" style="background-color: #ff9800;"> Participations & Achievements</a>
     
