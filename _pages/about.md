@@ -54,6 +54,7 @@ Contact
     <a href="/cv/" class="cta-btn" style="background-color: #007acc;">View My CV</a>
     <a href="/projects/" class="cta-btn" style="background-color: #4caf50;">Browse Projects</a>
     <a href="/blog/participations/" class="cta-btn" style="background-color: #ff9800;">View Participations and Achievements</a>
+    <a href="/year-archive" class="cta-btn" style="background-color:rgb(255, 0, 0);">Blog Posts</a>
   </div>
 </section>
 
@@ -76,7 +77,7 @@ Contact
 <section style="max-width: 800px; margin: 0 auto 60px; padding: 0 20px;">
   <h2 style="font-size: 2em; margin-bottom: 20px;">How can I help you?</h2>
   <p style="font-size: 1.1em; line-height: 1.7; color: #333;">
-    Whether you're just starting or refining your tech journey, I'm here to support you with expert guidance and hands-on consultation. I can help you if:
+    Whether you're just starting out or advancing in your embedded systems journey, I'm here to support you with expert guidance and hands-on consultation. I can help you if:
   </p>
   <ul style="font-size: 1.1em; line-height: 1.7; color: #333; margin-bottom: 20px;">
     <li>You have a project idea but aren't sure how to get started.</li>
