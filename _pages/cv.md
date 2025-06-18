@@ -57,12 +57,13 @@ You can download a PDF copy of my CV [here](/files/Mahmoud_Osman_CV_2025.pdf)
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VScode Logo" width="120" style="margin: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="Anaconda Logo" width="120" style="margin: 10px;">
   
+</div>
 
 ---
 <h2 align="center">German Language B1.1 Certificate</h2>
 <iframe src="/files/B1.1GermanCertificate.pdf" width="100%" height="500" frameborder="0" style="border: none;" ></iframe>
 
-</div>
+
 <!--
 Education
 ======
