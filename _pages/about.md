@@ -82,10 +82,10 @@ Contact
     <!-- Whether you're just starting out or advancing in your embedded systems journey, I'm here to support you with expert guidance and hands-on consultation. I can help you if: -->
   </p>
   <ul style="font-size: 1.1em; line-height: 1.7; color: #333; margin-bottom: 20px;">
-  <li>Hardware to Firmware – From schematics, PCB layout, and sensor integration to microcontroller programming.</li>
-  <li>Smart Systems &amp; IoT – Building connected devices, edge intelligence, and data-driven systems.</li>
-  <li>Prototyping &amp; Testing – Fast iteration and optimization for performance, cost, and reliability.</li>
-  <li>Data &amp; Visualization – Collecting, processing, and visualizing embedded data to drive insights.</li>
+  <li><strong>Hardware to Firmware</strong> – From schematics, PCB layout, and sensor integration to microcontroller programming.</li>
+  <li><strong>Smart Systems &amp; IoT</strong> – Building connected devices, edge intelligence, and data-driven systems.</li>
+  <li><strong>Prototyping &amp; Testing</strong> – Fast iteration and optimization for performance, cost, and reliability.</li>
+  <li><strong>Data &amp; Visualization</strong> – Collecting, processing, and visualizing embedded data to drive insights.</li>
     <!-- <li>You have a project idea but aren't sure how to get started.</li>
     <li>You're facing challenges with component selection, schematic design, or PCB layout.</li>
     <li>You need help programming microcontrollers, integrating sensors and actuators, or enabling IoT connectivity.</li>
