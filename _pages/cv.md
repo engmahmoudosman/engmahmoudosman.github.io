@@ -9,10 +9,10 @@ redirect_from:
  
 {% include base_path %}
 
-<iframe src="/files/Mahmoud_Osman_CV_2025.pdf" width="100%" height="500" frameborder="0" style="border: none;" ></iframe>
+<iframe src="/files/MahmoudOsmanCV.pdf" width="100%" height="500" frameborder="0" style="border: none;" ></iframe>
 
 <!-- You can download a PDF copy of my CV [here](/files/CV_Feb_2025.pdf) -->
-You can download a PDF copy of my CV [here](/files/Mahmoud_Osman_CV_2025.pdf)
+You can download a PDF copy of my CV [here](/files/MahmoudOsmanCV.pdf)
 
 <h1 align="center">MY SKILLS</h1>
 
