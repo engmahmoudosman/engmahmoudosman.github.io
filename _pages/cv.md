@@ -14,7 +14,6 @@ redirect_from:
   src="/files/Mahmoud_general_CV.pdf"
     title="Mahmoud Osman CV"
     style="width:100%; min-height: 100vh; border:1px solid #ccc; display:block;"
-    height="500"
 ></iframe>
 
 <p style="text-align:center; margin-top:1em;">
@@ -70,7 +69,7 @@ redirect_from:
 
 ---
 <h2 align="center">German Language B1.1 Certificate</h2>
-<iframe src="/files/B1.1GermanCertificate.pdf" width="100%" height="500" frameborder="0" style="border: none;" ></iframe>
+<iframe src="/files/B1.1GermanCertificate.pdf" width="100%" height="500" frameborder="0" style="border:1px solid #ccc;" ></iframe>
 
 
 <!--
