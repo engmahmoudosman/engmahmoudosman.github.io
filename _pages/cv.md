@@ -12,8 +12,8 @@ redirect_from:
 <!-- Embedded PDF viewers on mobile devices may only show the first page. For best results, use the download link below on your phone. -->
 <iframe
   src="/files/Mahmoud_general_CV.pdf"
-  title="Mahmoud Osman CV"
-  style="width:100%; min-height: 100vh; border:none; display:block;"
+    title="Mahmoud Osman CV"
+    style="width:100%; min-height: 100vh; border:1px solid #ccc; display:block;"
 ></iframe>
 
 <p style="text-align:center; margin-top:1em;">
