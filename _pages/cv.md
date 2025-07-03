@@ -9,17 +9,18 @@ redirect_from:
  
 {% include base_path %}
 
+<!-- Embedded PDF viewers on mobile devices may only show the first page. For best results, use the download link below on your phone. -->
 <iframe
   src="/files/Mahmoud_general_CV.pdf"
   title="Mahmoud Osman CV"
   style="width:100%; min-height: 100vh; border:none; display:block;"
 ></iframe>
 
-
-<iframe src="/files/Mahmoud_general_CV.pdf" width="100%" height="800" frameborder="0" style="border: none;" ></iframe>
-
-<!-- You can download a PDF copy of my CV [here](/files/CV_Feb_2025.pdf) -->
-You can download a PDF copy of my CV [here](/files/Mahmoud_general_CV.pdf)
+<p style="text-align:center; margin-top:1em;">
+  <a href="/files/Mahmoud_general_CV.pdf" target="_blank" rel="noopener">
+    View or download the full CV (PDF)
+  </a>
+</p>
 
 <h1 align="center">MY SKILLS</h1>
 
@@ -109,5 +110,5 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
  -->
- 
+
 
