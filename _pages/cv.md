@@ -9,13 +9,11 @@ redirect_from:
  
 {% include base_path %}
 
-<div style="width:100%; height:100vh; overflow:auto;">
-  <iframe
-    src="/files/Mahmoud_general_CV.pdf"
-    title="Mahmoud Osman CV"
-    style="width:100%; height:100%; border:none;"
-  ></iframe>
-</div>
+<iframe
+  src="/files/Mahmoud_general_CV.pdf"
+  title="Mahmoud Osman CV"
+  style="width:100%; min-height: 100vh; border:none; display:block;"
+></iframe>
 
 
 <iframe src="/files/Mahmoud_general_CV.pdf" width="100%" height="800" frameborder="0" style="border: none;" ></iframe>
