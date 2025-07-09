@@ -71,6 +71,7 @@ redirect_from:
 <h2 align="center">German Language B1.1 Certificate</h2>
 <iframe src="/files/B1.1GermanCertificate.pdf" width="100%" height="500" frameborder="0" style="border:1px solid #ccc;" ></iframe>
 
+I also have A2 certificate from Goethe-Institut. 
 
 <!--
 Education
