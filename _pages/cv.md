@@ -10,11 +10,11 @@ redirect_from:
 {% include base_path %}
 
 <!-- Embedded PDF viewers on mobile devices may only show the first page. For best results, use the download link below on your phone. -->
-<iframe
+<!-- <iframe
   src="/files/Mahmoud_general_CV.pdf"
     title="Mahmoud Osman CV"
     style="width:100%; min-height: 100vh; border:1px solid #ccc; display:block;"
-></iframe>
+></iframe> -->
 
 <p style="text-align:center; margin-top:1em;">
   <a href="/files/Mahmoud_general_CV.pdf" target="_blank" rel="noopener">
