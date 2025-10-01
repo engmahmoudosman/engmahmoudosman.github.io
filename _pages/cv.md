@@ -17,7 +17,7 @@ redirect_from:
 ></iframe> -->
 
 <p style="text-align:center; margin-top:1em;">
-  <a href="/files/Mahmoud_general_CV.pdf" target="_blank" rel="noopener">
+  <a href="/files/Mahmoud_CV_OCT_25_v2.pdf.pdf" target="_blank" rel="noopener">
     View or download the full CV (PDF)
   </a>
 </p>
